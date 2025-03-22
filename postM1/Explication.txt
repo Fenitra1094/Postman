@@ -1,0 +1,6 @@
+-- Pour fichier pour Uploader un fichier
+localhost/Upload.php
+-- Pour fichier pour POST un fichier
+localhost/EssaiePost.php
+-- Pour fichier pour GET un fichier
+localhost/EssaieGet.php
